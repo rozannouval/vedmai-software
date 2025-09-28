@@ -7,7 +7,7 @@
 
 Ini adalah proyek capstone untuk program **HACKTIV8 Student Developer Initiative**, yang berfokus pada *Code Generations and Optimization with IBM Granite*.
 
-![Vedmai Software Screenshot](https://drive.google.com/file/d/1csJYuMZYk-nUXbXr4izzZFZpvPLyUYd5/view?usp=sharing)
+![Vedmai Software Screenshot](https://drive.google.com/uc?export=view&id=1csJYuMZYk-nUXbXr4izzZFZpvPLyUYd5)
 
 ## Deskripsi Proyek
 

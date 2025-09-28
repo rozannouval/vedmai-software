@@ -6,6 +6,10 @@
 
 /* Vedmai Software Design System - Competition Quality */
 
+html {
+  scroll-behavior: smooth;
+}
+
 @layer base {
   :root {
     /* Core Brand Colors */
